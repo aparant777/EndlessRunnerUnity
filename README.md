@@ -17,3 +17,9 @@ Then a new simple game is born !
   * Then the three developers work on scripts to run the game
   * Once it is finished , the manager (game designer) export the game!
   * A new game is born
+
+###Contributers
+  * (Naji add about yourself)
+  * Uddipan for composing the project and for designing (add your real name)
+  * Neel Khalade for Modelling
+  * Programmers add yourself
