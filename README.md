@@ -13,7 +13,8 @@ Endless Runner Project is a endless runner game similar to Subway Surf Environme
   * A new game is born
 
 ###Contributers
-  * (Naji add about yourself)
-  * Uddipan for composing the project and for designing (add your real name)
+  * Naji Kadri for programming
+  * Uddipaan for composing the project and for designing
   * Neel Khalade for Modelling
-  * Programmers add yourself
+  * Sam Salvator for programming
+  * Steph for UI & Brand Design
